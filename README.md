@@ -19,9 +19,7 @@ Supports local and cloud model loading
 Python
 
 Transformers (AutoModelForCausalLM, AutoTokenizer)
-
 PyTorch (torch)
-
 Flask (optional, for web interface)
 
 🚀 How It Works
